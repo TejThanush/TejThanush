@@ -15,7 +15,7 @@ I'm a graduate student at Arizona State University with a keen interest in DevOp
 - Explore innovative tech in automation and system optimization
 
 📫 How to reach me:
-- Email: tpeddineni25@gmail.com
+- Email: ttpeddineni25@gmail.com
 - Phone: 4807919886
 
 😄 Pronouns: He/Him
